@@ -1,4 +1,37 @@
 {
   "name": "GEOEYE",
-  "description": "Руководство"
+  "description": "Руководство",
+  "logo": {
+    "light": "/assets/icon.png",
+    "dark": "/assets/icon.png"
+  },
+  "favicon": "/assets/icon.png",
+  "theme": {
+    "primary": "#ECC918",
+    "primaryLight": "#BFA213"
+  },
+  "content": {
+    "showPageTitle": true,
+    "showPageImage": true
+  },
+  "sidebar": [
+    {
+      "pages": [
+        {
+          "title": "Описание",
+          "href": "/"
+        }
+      ]
+    },
+    {
+      "group": "Getting Started",
+      "pages": [
+        {
+          "title": "Главный экран",
+          "href": "/main_screen/main-screen"
+        }
+      ]
+    }
+  ]
 }
+
