@@ -60,11 +60,19 @@
         },
         {
           "title": "Избранное",
-          "href": "/geo_points/geo_points"
+          "href": "/favorites/favorites"
         },
         {
           "title": "Публичная кадастровая карта",
           "href": "/pkk/pkk"
+        },
+        {
+          "title": "Настройки",
+          "href": "/settings/settings"
+        },
+        {
+          "title": "Профиль",
+          "href": "/profile/profile"
         }
       ]
     }
