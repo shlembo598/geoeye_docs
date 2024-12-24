@@ -18,17 +18,53 @@
     {
       "pages": [
         {
-          "title": "Описание",
+          "title": "О приложении",
           "href": "/"
         }
       ]
     },
     {
-      "group": "Getting Started",
+      "group": "Экраны и функции",
       "pages": [
         {
           "title": "Главный экран",
           "href": "/main_screen/main-screen"
+        },
+        {
+          "title": "Меню приложения",
+          "href": "/menu/menu"
+        },
+        {
+          "title": "Слои карты",
+          "href": "/map_layers/map_layers"
+        },
+        {
+          "title": "Возмущения ионосферы",
+          "href": "/storms/storms"
+        },
+        {
+          "title": "Поиск мест",
+          "href": "/place_search/place_search"
+        },
+        {
+          "title": "Инструменты",
+          "href": "/instruments/instruments"
+        },
+        {
+          "title": "Базовые станции",
+          "href": "/base_stations/base_stations"
+        },
+        {
+          "title": "Геопункты",
+          "href": "/geo_points/geo_points"
+        },
+        {
+          "title": "Избранное",
+          "href": "/geo_points/geo_points"
+        },
+        {
+          "title": "Публичная кадастровая карта",
+          "href": "/pkk/pkk"
         }
       ]
     }
