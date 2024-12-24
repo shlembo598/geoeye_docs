@@ -35,6 +35,10 @@
           "href": "/menu/menu"
         },
         {
+          "title": "Настройки",
+          "href": "/settings/settings"
+        },
+        {
           "title": "Слои карты",
           "href": "/map_layers/map_layers"
         },
@@ -59,6 +63,10 @@
           "href": "/geo_points/geo_points"
         },
         {
+          "title": "Папки",
+          "href": "/folders/folders"
+        },
+        {
           "title": "Избранное",
           "href": "/favorites/favorites"
         },
@@ -67,12 +75,12 @@
           "href": "/pkk/pkk"
         },
         {
-          "title": "Настройки",
-          "href": "/settings/settings"
-        },
-        {
           "title": "Профиль",
           "href": "/profile/profile"
+        },
+        {
+          "title": "Вынос точек",
+          "href": "/point_stakeout/point_stakeout"
         }
       ]
     }
